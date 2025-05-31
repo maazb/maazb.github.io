@@ -88534,7 +88534,7 @@ m=a7.nM(A.cR("icons/firebase.svg",a8,m,m),0.42,b0)
 l=a7.r*0.06
 l=a7.nM(A.cR("icons/android2.svg",B.dx,l,l),0.56,"Native Android")
 k=a7.r*0.06
-k=a7.nM(A.cR("icons/fastapi.svg",a8,k,k),0.7,"FastAPI")
+k=a7.nM(A.cR("icons/fastApi.svg",a8,k,k),0.7,"FastAPI")
 j=a7.r*0.06
 i=t.p
 j=A.aY(A.b([A.jE(B.bA,A.b([q,o,p,n,m,l,k,a7.nM(A.cR("icons/python.svg",a8,j,j),0.84,"Python")],i),B.f,B.bG)],i),B.n,B.au,B.l)
@@ -88675,7 +88675,7 @@ case 5:case 3:return A.O(null,r)}})
 return A.P($async$$0,r)},
 $S:24}
 A.aps.prototype={
-$2(a,b){var s,r=null,q="icons/flutter.svg",p="icons/node-js.svg",o="icons/react.svg",n="Firebase",m="icons/firebase.svg",l="Native Android",k="icons/android2.svg",j="icons/fastapi.svg",i="icons/python.svg",h=this.a,g=h.ay
+$2(a,b){var s,r=null,q="icons/flutter.svg",p="icons/node-js.svg",o="icons/react.svg",n="Firebase",m="icons/firebase.svg",l="Native Android",k="icons/android2.svg",j="icons/fastApi.svg",i="icons/python.svg",h=this.a,g=h.ay
 g===$&&A.a()
 g=g.gl(0)
 s=h.r
@@ -88861,7 +88861,7 @@ d=a2.nG(A.cR("icons/firebase.svg",a3,d,d),0.42,a5)
 c=a2.r*0.03
 c=a2.nG(A.cR("icons/android2.svg",B.dx,c,c),0.56,"Native Android")
 b=a2.r*0.03
-b=a2.nG(A.cR("icons/fastapi.svg",a3,b,b),0.7,"FastAPI")
+b=a2.nG(A.cR("icons/fastApi.svg",a3,b,b),0.7,"FastAPI")
 a=a2.r*0.03
 q=A.M(a3,A.aY(A.b([n,h,A.bb(A.b([j,A.dI(!1,A.fi(A.jE(B.bA,A.b([A.M(a3,A.jE(B.bA,A.b([l,m,f,e,d,c,b,a2.nG(A.cR("icons/python.svg",a3,a,a),0.84,"Python")],g),B.f,B.bG),B.f,a3,a3,new A.bf(B.al,a3,a3,o,a3,a3,B.z),a3,p,a3,a3,a3,a3,p)],g),B.f,B.bG),k,a3,!0),i)],g),B.n,B.kD,B.l)],g),B.n,B.au,B.l),B.f,a3,a3,a3,a3,a3,new A.S(q,0,q,0),a3,a3,a3,a3)
 i=a2.r*0.08
@@ -89121,7 +89121,7 @@ A.apO.prototype={
 $1(a){},
 $S:87}
 A.apN.prototype={
-$2(a,b){var s,r=null,q="icons/flutter.svg",p="icons/node-js.svg",o="icons/react.svg",n="Firebase",m="icons/firebase.svg",l="Native Android",k="icons/android2.svg",j="icons/fastapi.svg",i="icons/python.svg",h=this.a,g=h.p3
+$2(a,b){var s,r=null,q="icons/flutter.svg",p="icons/node-js.svg",o="icons/react.svg",n="Firebase",m="icons/firebase.svg",l="Native Android",k="icons/android2.svg",j="icons/fastApi.svg",i="icons/python.svg",h=this.a,g=h.p3
 g===$&&A.a()
 g=g.gl(0)
 s=h.r
